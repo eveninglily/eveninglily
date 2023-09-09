@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Evelyn. I currently work at Dropbox, on the "Analytics Platform" team.
+
+I'm really interested in building tools and platforms that enable **people** to follow their curiousities. 
 
 <!--
 **eveninglily/eveninglily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
